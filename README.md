@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Aritra Ghosh  
 
-<!--
-**aritra-04/aritra-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | Java 
 
-Here are some ideas to get you started:
+## 💡 About Me
+- 💻 Passionate about backend development & REST APIs
+- 🌱 Currently learning **Advanced Node.js & MongoDB**
+- 🔭 Building real-world MERN projects
+- 🎯 Goal: Crack a backend / full-stack role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, OracleDB
+- **Tools:** Git, GitHub, Postman
+
+## 📌 Featured Projects
+🔹 **ImageX – Full Stack App**  
+👉 Login, Admin Dashboard, REST APIs  
+👉 Tech: React, Node.js, MongoDB  
+
+🔹 **Authentication System**  
+👉 Secure login using bcrypt & JWT  
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/aritra-ghosh-918561272/)
+- Email: (aritraghosh522@gmail.com)
+
+⭐ If you like my work, consider starring my repositories!
