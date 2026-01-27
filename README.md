@@ -1,6 +1,6 @@
 # Hi 👋 I'm Aritra Ghosh  
 
-🚀 MERN Stack Developer | Java 
+🚀 MERN Stack Developer | Java Enthusiast
 
 ## 💡 About Me
 - 💻 Passionate about backend development & REST APIs
