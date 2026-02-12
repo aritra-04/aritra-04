@@ -4,7 +4,7 @@
 
 ## 💡 About Me
 - 💻 Passionate about backend development & REST APIs
-- 🌱 Currently learning **Advanced Node.js & MongoDB**
+- 🌱 Currently learning **Advanced Node.js & MongoDB & Socket.IO
 - 🔭 Building real-world MERN projects
 - 🎯 Goal: Crack a backend / full-stack role
 
@@ -21,6 +21,10 @@
 
 🔹 **Authentication System**  
 👉 Secure login using bcrypt & JWT  
+
+🔹 Socket-based Messaging Service
+👉 Real-time message exchange using Socket.IO
+👉 Tech: Node.js, Socket.IO
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/aritra-ghosh-918561272/)
