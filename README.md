@@ -22,10 +22,9 @@
 🔹 **Authentication System**  
 👉 Secure login using bcrypt & JWT  
 
-🔹 Socket-based Messaging Service
-👉 Real-time message exchange using Socket.IO
+🔹 Socket-based Messaging Service <br>
+👉 Real-time message exchange using Socket.IO <br>
 👉 Tech: Node.js, Socket.IO
-
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/aritra-ghosh-918561272/)
