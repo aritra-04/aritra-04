@@ -4,7 +4,7 @@
 
 ## 💡 About Me
 - 💻 Passionate about backend development & REST APIs
-- 🌱 Currently learning **Advanced Node.js & MongoDB & Socket.IO
+- 🌱 Currently learning Advanced Node.js & MongoDB & Socket.IO
 - 🔭 Building real-world MERN projects
 - 🎯 Goal: Crack a backend / full-stack role
 
